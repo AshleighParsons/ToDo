@@ -64,10 +64,10 @@ $ php -S localhost:8000 -t public
 
 ##### Frontend
 
-Next you'll set up the frontend in your terminal by navigating to the project folder:
+Next you'll set up the frontend project folder:
+First, clone the frontend project from the [frontend] project, then run these commands in your terminal
 
 ```sh
-$ cd ToDo
 $ cd ToDoList
 $ npm install
 $ ng serve -o
@@ -97,4 +97,5 @@ Register yourself, login, and start getting organised with your todo list!
    [lumen]: <https://lumen.laravel.com/>
    [angularjs]: <https://angularjs.org/>
    [bootstrap]: <https://getbootstrap.com/>
+   [frontend]: <https://170074@bitbucket.org/170074/todolist.git>
 
