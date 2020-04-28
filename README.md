@@ -87,12 +87,12 @@ Register yourself, login, and start getting organised with your todo list!
  
 ### Example Images
 
-![alt register](images/Screenshot 2020-04-25 at 10.46.06.png)
-![alt login](images/Screenshot 2020-04-25 at 10.46.11.png)
-![alt logged-in](images/Screenshot 2020-04-27 at 01.05.18.png)
-![alt create-todo](images/Screenshot 2020-04-27 at 01.05.28.png)
-![alt todo-unchecked](images/Screenshot 2020-04-27 at 01.06.18.png)
-![alt todo-checked](images/Screenshot 2020-04-27 at 01.06.24.png)
+![alt register](images/reg.png)
+![alt login](images/login.png)
+![alt logged-in](images/logged.png)
+![alt create-todo](images/addtodo.png)
+![alt todo-unchecked](images/unchecked.png)
+![alt todo-checked](images/checked.png)
 
    [lumen]: <https://lumen.laravel.com/>
    [angularjs]: <https://angularjs.org/>
